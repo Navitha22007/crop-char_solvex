@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Node dependencies & build
+node_modules/
+frontend/node_modules/
+frontend/build/
+
+# Data runtime output
+data/raw_hotspots.csv
