@@ -1,0 +1,6 @@
+field_id,permitted,season_start,season_end
+field_01,false,2026-10-01,2026-11-15
+field_02,true,2026-10-01,2026-11-15
+field_03,false,2026-10-01,2026-11-15
+field_04,true,2026-10-01,2026-11-15
+field_05,false,2026-10-01,2026-11-15
