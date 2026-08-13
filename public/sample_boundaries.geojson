@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "name": "cropchar_field_boundaries",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "field_01",
+        "owner": "Ramesh Kumar",
+        "crop_type": "Paddy"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.230, 10.740],
+            [78.250, 10.740],
+            [78.250, 10.760],
+            [78.230, 10.760],
+            [78.230, 10.740]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "field_02",
+        "owner": "Suresh Patel",
+        "crop_type": "Wheat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.230, 10.760],
+            [78.250, 10.760],
+            [78.250, 10.780],
+            [78.230, 10.780],
+            [78.230, 10.760]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "field_03",
+        "owner": "Anitha Reddy",
+        "crop_type": "Sugarcane"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.250, 10.740],
+            [78.270, 10.740],
+            [78.270, 10.760],
+            [78.250, 10.760],
+            [78.250, 10.740]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "field_04",
+        "owner": "Vikram Singh",
+        "crop_type": "Maize"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.250, 10.760],
+            [78.270, 10.760],
+            [78.270, 10.780],
+            [78.250, 10.780],
+            [78.250, 10.760]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "field_05",
+        "owner": "Kavitha Sharma",
+        "crop_type": "Cotton"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.240, 10.720],
+            [78.260, 10.720],
+            [78.260, 10.740],
+            [78.240, 10.740],
+            [78.240, 10.720]
+          ]
+        ]
+      }
+    }
+  ]
+}
